@@ -19,7 +19,7 @@ Open pgAdmin application. (pgAdmin is the most popular and Open Source administr
 <p align="center"><img src="https://user-images.githubusercontent.com/48491124/80656472-f7c11400-8a89-11ea-92ce-430c4d081b6a.png"></p>
 
 ### Step 2
-After opening pgAdmin, enter your password. Then click on _Servers_' arrow at its left.
+Enter your password. Then click on _Servers_' arrow at its left.
 
 **Note:** After clicking arrow, it is possible that it may ask you to enter your password again.
 
@@ -83,7 +83,7 @@ When it's built succeeded, the console will notify you as below.
 <p><img src="https://user-images.githubusercontent.com/48491124/80658653-5e94fc00-8a8f-11ea-895a-c5fa15336a0b.PNG"></p>
 
 ### Step 14
-After build, Type the code below and enter.
+Type the code below and enter.
 ```
 Update-database
 ```
@@ -93,4 +93,4 @@ If succeed, the console will notify you as below.
 <p><img src="https://user-images.githubusercontent.com/48491124/80658685-77051680-8a8f-11ea-9e2c-999e653b9d2a.PNG"></p>
 
 ### Step 15
-* That's it! You can run the application by clicking _IIS Express_ button at top.
+That's it! You can run the application by clicking _IIS Express_ button at top.
