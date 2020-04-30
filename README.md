@@ -8,7 +8,7 @@ Private Tutoring Application
 * Damla Yıldırım - 201411068
 * Serhat Cenkayoğlu - 201511301
 
-# Compilation / Installation Guide (for Windows) Step by Step
+# Compilation / Installation Guide (for Windows)
 
 Before starting, make sure that you have installed [Visual Studio 2019](https://visualstudio.microsoft.com/tr/vs/) (it supposed to include _ASP.NET and web development_) and [PostgreSQL](https://www.postgresql.org/) on your computer.
 <br />
