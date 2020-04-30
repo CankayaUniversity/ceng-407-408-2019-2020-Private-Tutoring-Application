@@ -31,15 +31,16 @@ Right click on _Databases_. Then select _Create > Database..._.
 ### Step 4
 Enter a Database name and save it. It could be anything that you want.
 
-<p align="center"><img src="![Ekran Alıntısı2](https://user-images.githubusercontent.com/48491124/80658301-7750e200-8a8e-11ea-899a-95a045069916.PNG)"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48491124/80658301-7750e200-8a8e-11ea-899a-95a045069916.PNG"></p>
 
 ### Step 5
 Click on database at left that you have just created. It will connect the database and notify you that it is connected.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48491124/80658356-92bbed00-8a8e-11ea-8ebc-70b6054c99ac.PNG"></p>
+<p align="center"><i>Nodification</i></p>
 
 ### Step 6
-Download the project from [Releases](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Private-Tutoring-Application/releases) and open it.
+Download the project from [Releases](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Private-Tutoring-Application/releases). Extract it and open _PrivateTutoringApplication.sln_ file.
 
 ### Step 7
 From Solution Explorer, click _appsettings.json_ file.
